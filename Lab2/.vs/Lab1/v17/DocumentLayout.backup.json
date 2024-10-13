@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|c:\\users\\ruden\\desktop\\lab1tpbd\\lab1\\migrations\\adsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|solutionrelative:migrations\\adsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|c:\\users\\ruden\\desktop\\lab1tpbd\\lab1\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|c:\\users\\ruden\\desktop\\lab1tpbd\\lab1\\migrations\\20241013143521_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|solutionrelative:migrations\\20241013143521_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|c:\\users\\ruden\\desktop\\lab1tpbd\\lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|solutionrelative:lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|c:\\users\\ruden\\desktop\\lab1tpbd\\lab1\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|solutionrelative:models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|c:\\users\\ruden\\desktop\\lab1tpbd\\lab1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|c:\\users\\ruden\\desktop\\lab1tpbd\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC51DD6-821D-42B6-BE0F-D615DF3CCCD0}|Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Migrations\\AdsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AdsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Migrations\\AdsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AdsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:53:20.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab1.csproj",
+              "DocumentMoniker": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Lab1.csproj",
+              "RelativeDocumentMoniker": "Lab1.csproj",
+              "ToolTip": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Lab1.csproj",
+              "RelativeToolTip": "Lab1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T14:29:48.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:22:58.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Models\\Ad.cs",
+              "RelativeDocumentMoniker": "Models\\Ad.cs",
+              "ToolTip": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Models\\Ad.cs",
+              "RelativeToolTip": "Models\\Ad.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:24:46.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241013143521_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Migrations\\20241013143521_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241013143521_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Migrations\\20241013143521_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241013143521_InitialCreate.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:35:21.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\DbContext.cs",
+              "RelativeDocumentMoniker": "DbContext.cs",
+              "ToolTip": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\DbContext.cs",
+              "RelativeToolTip": "DbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:31:57.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ruden\\Desktop\\lab1TPBD\\Lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:44:14.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
